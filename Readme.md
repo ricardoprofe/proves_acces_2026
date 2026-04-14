@@ -4,7 +4,7 @@ Proves d'accés a cicles de grau mitjà, 2026.
 
 Ricardo Sánchez
 
-![QR code](./qr-code.png){width="400px"}
+![QR code](./qr-code.png)
 
 ## Currículum
 
