@@ -123,3 +123,11 @@ https://ceice.gva.es/va/web/formacion-profesional/pruebas-de-acceso-a-ciclos-for
 ## Bloc 1: Dispositius digitals i sistemes informàtics. Sostenibilitat.
 
 [Components d'un ordinador](./Components%20ordinador.pdf)
+
+---
+
+[Representació de la informació](./Representació%20de%20la%20informació.pdf)
+
+---
+
+[Sistemes operatius](./Sistemes%20operatius.pdf)
