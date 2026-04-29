@@ -130,4 +130,8 @@ https://ceice.gva.es/va/web/formacion-profesional/pruebas-de-acceso-a-ciclos-for
 
 ---
 
+[Programari i aplicacions](./programari.pdf)
+
+---
+
 [Sistemes operatius](./Sistemes%20operatius.pdf)
