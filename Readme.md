@@ -139,3 +139,7 @@ https://ceice.gva.es/va/web/formacion-profesional/pruebas-de-acceso-a-ciclos-for
 ---
 
 [5. Xarxes](./Xarxes.pdf)
+
+---
+
+[6. Seguretat informàtica](./Seguretat%20informàtica.pdf)
